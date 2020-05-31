@@ -1,0 +1,2 @@
+# EDA_R_Packages
+EDA is a must to step in the data science workflow. Working on data, wrangling &amp; transforming them is time consuming, and it determine the success degree of the next steps (pre preocessing, modelling, communicating outputs &amp; decision making). This repo will show you how to perform EDA in R using the tidyverse ecosystem, and will introduce a comparative approach between the main packages in R whcich could let you perform automated EDA &amp; generating automated EDA html or pdf reports, ready to be communicated.  
