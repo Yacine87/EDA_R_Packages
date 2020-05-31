@@ -9,13 +9,19 @@ The tidyverse: the most known & revolutionary packages' ecosystem (collection of
 Note that the above packages have dependencies with the tidyverse's package as dplyr, ggplot2, etc.
 
 SmartEDA # see https://github.com/daya6489/SmartEDA
+
 dlookr # see https://github.com/choonghyunryu/dlookr
+
 DataExplorer # https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html
+
 Hmisc # see https://hbiostat.org/R/Hmisc/
+
 exploreR # see https://cran.r-project.org/web/packages/exploreR/index.html
+
 RtutoR # see https://cran.r-project.org/web/packages/RtutoR/index.html
+
 summarytools # see https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html
 
-# Pckages installation 
+# Packages installation 
 To install successfuly SmartEDA, dlookr, etc, you must install Rtools version 4.0 from https://cran.r-project.org/bin/windows/Rtools/
 
